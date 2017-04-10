@@ -1,2 +1,2 @@
-letters = ["a", "b", "c", "d", "e", "f"]
+letters = ["alpha", "bravo", "charlie", "delta", "echo", "foxtrot"]
 puts letters.join(", ")
