@@ -4,7 +4,7 @@ letters = [
   "india", "juliet", "kilo", "lima",
   "mike", "november", "oscar", "papa", 
   "quebec", "romeo", "sierra", "tango",
-  "umbrella", "victor", 
+  "umbrella", "victor", "whiskey", 
  ]
 
 puts letters.join(", ")
