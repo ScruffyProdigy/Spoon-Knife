@@ -3,7 +3,8 @@ letters = [
   "echo", "foxtrot", "golf", "hotel",
   "india", "juliet", "kilo", "lima",
   "mike", "november", "oscar", "papa", 
-  "quebec", "romeo", "sierra", "tango", "umbrella", 
+  "quebec", "romeo", "sierra", "tango",
+  "umbrella", "victor", 
  ]
 
 puts letters.join(", ")
