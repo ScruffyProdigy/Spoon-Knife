@@ -1,5 +1,5 @@
 letters = [
-  "A: alpha", "B: bravo", "C: charlie", "D: delta", "echo", 
+  "A: alpha", "B: bravo", "C: charlie", "D: delta", "E: echo", 
   "foxtrot", "golf", "hotel", "india", "juliet", 
   "kilo", "lima", "mike", "november", "oscar", 
   "papa", "quebec", "romeo", "sierra", "tango",
