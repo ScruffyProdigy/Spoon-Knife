@@ -4,7 +4,7 @@ letters = [
   "kilo", "lima", "mike", "november", "oscar", 
   "papa", "quebec", "romeo", "sierra", "tango",
   "umbrella", "victor", "whiskey", "x-ray", "yankee", 
-  "zulu", "?????", "And, per-se, and", "!!!!!!!", "whatever!", "adding garbage!!!!!",  "So Annoying", "blah"
+  "zulu", "?????", "And, per-se, and", "!!!!!!!", "whatever!", "adding garbage!!!!!",  "So Annoying", 
  ]
 
 puts letters.join(", ")
